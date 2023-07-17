@@ -19,13 +19,13 @@ eg:
 python dice_game.py 6 40
 ```
 
-Approach 2 - `dice_game_score.py`
+Approach 2 - `dice_game_score_approach.py`
 Here we rank the player based on the score by the player. If a player finished the game later, but with a higher score, that player would be ranked higher.
 
 ```
-python dice_game_score.py <number_of_players> <target_score>
+python dice_game_score_approach.py <number_of_players> <target_score>
 
 eg:
 
-python dice_game_score.py 6 40
+python dice_game_score_approach.py 6 40
 ```
